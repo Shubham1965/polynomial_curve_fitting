@@ -1,0 +1,10 @@
+polynomial_fitting/__pycache__
+model/__pycache__
+dataset/__pycache__
+utils/__pycache__
+Results
+.ipynb_checkpoints
+.venv
+polynomial_fitting/Results
+config.ini
+.conda

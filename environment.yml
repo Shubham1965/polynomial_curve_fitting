@@ -1,0 +1,7 @@
+name: polynomial-curve-fitting
+channels:
+  - defaults
+
+dependencies:
+  - python=3.10
+  - jupyterlab
